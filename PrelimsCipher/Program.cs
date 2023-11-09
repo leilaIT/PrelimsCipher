@@ -282,7 +282,7 @@ namespace PrelimsCipher
             for (int x = 0; x < displayList.Count; x++)
             {
                 Console.Write(displayList[x]);
-                Thread.Sleep(150);
+                Thread.Sleep(100);
             }
             Console.ResetColor();
 
